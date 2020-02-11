@@ -85,7 +85,7 @@ class IncidentsList extends AsyncComponent<Props, State & AsyncComponent['state'
   renderEmpty() {
     return (
       <EmptyStateWarning>
-        <p>{t("You don't have any Incidents yet")}</p>
+        <p>{t("You don't have any Alerts yet")}</p>
       </EmptyStateWarning>
     );
   }
