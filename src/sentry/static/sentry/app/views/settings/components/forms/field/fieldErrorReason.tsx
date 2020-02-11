@@ -1,4 +1,4 @@
-import styled from '@emotion/styled';
+import styled from 'app/emotion-styled';
 import {slideInUp} from 'app/styles/animations';
 
 const FieldErrorReason = styled('div')`

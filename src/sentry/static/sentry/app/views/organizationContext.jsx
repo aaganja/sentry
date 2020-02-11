@@ -5,7 +5,7 @@ import Reflux from 'reflux';
 import * as Sentry from '@sentry/browser';
 import createReactClass from 'create-react-class';
 
-import styled from '@emotion/styled';
+import styled from 'app/emotion-styled';
 import {ORGANIZATION_FETCH_ERROR_TYPES} from 'app/constants';
 import {fetchOrganizationDetails} from 'app/actionCreators/organization';
 import {metric} from 'app/utils/analytics';

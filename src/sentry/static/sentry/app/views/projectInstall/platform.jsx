@@ -2,7 +2,7 @@ import {browserHistory} from 'react-router';
 import PropTypes from 'prop-types';
 import React from 'react';
 
-import styled from '@emotion/styled';
+import styled from 'app/emotion-styled';
 import {Panel, PanelAlert, PanelBody, PanelHeader} from 'app/components/panels';
 import {loadDocs} from 'app/actionCreators/projects';
 import {t, tct} from 'app/locale';

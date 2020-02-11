@@ -4,7 +4,7 @@ import React from 'react';
 import intersection from 'lodash/intersection';
 
 import {addErrorMessage, addSuccessMessage} from 'app/actionCreators/indicator';
-import styled from '@emotion/styled';
+import styled from 'app/emotion-styled';
 import {SentryApp, Scope} from 'app/types';
 import {t} from 'app/locale';
 import Form from 'app/views/settings/components/forms/form';

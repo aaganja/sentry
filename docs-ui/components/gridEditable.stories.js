@@ -1,7 +1,7 @@
 import React from 'react';
 import {storiesOf} from '@storybook/react';
 import {withInfo} from '@storybook/addon-info';
-import styled from '@emotion/styled';
+import styled from 'app/emotion-styled';
 
 import Button from 'app/components/button';
 import GlobalModal from 'app/components/globalModal';

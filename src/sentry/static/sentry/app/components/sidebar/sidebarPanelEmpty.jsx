@@ -1,4 +1,4 @@
-import styled from '@emotion/styled';
+import styled from 'app/emotion-styled';
 
 const SidebarPanelEmpty = styled('div')`
   color: #9586a5;

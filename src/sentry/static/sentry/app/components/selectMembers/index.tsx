@@ -2,7 +2,7 @@ import debounce from 'lodash/debounce';
 import PropTypes from 'prop-types';
 import React from 'react';
 
-import styled from '@emotion/styled';
+import styled from 'app/emotion-styled';
 import {Client} from 'app/api';
 import {Member, Organization, Project, Team, User} from 'app/types';
 import {addTeamToProject} from 'app/actionCreators/projects';

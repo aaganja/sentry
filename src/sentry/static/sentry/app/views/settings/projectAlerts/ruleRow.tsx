@@ -3,7 +3,7 @@ import {RouteComponentProps} from 'react-router/lib/Router';
 import PropTypes from 'prop-types';
 import React from 'react';
 
-import styled from '@emotion/styled';
+import styled from 'app/emotion-styled';
 import {Client} from 'app/api';
 import {IssueAlertRule} from 'app/types/alerts';
 import {Panel, PanelBody, PanelHeader} from 'app/components/panels';

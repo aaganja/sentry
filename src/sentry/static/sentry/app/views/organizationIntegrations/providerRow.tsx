@@ -3,7 +3,7 @@ import {withTheme} from 'emotion-theming';
 import PropTypes from 'prop-types';
 import React from 'react';
 
-import styled from '@emotion/styled';
+import styled from 'app/emotion-styled';
 import {openIntegrationDetails} from 'app/actionCreators/modal';
 import {PanelItem} from 'app/components/panels';
 import {t} from 'app/locale';

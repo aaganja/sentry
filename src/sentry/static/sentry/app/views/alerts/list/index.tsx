@@ -4,7 +4,7 @@ import React from 'react';
 import moment from 'moment';
 import omit from 'lodash/omit';
 
-import styled from '@emotion/styled';
+import styled from 'app/emotion-styled';
 import {PageContent, PageHeader} from 'app/styles/organization';
 import {Panel, PanelBody, PanelHeader, PanelItem} from 'app/components/panels';
 import {navigateTo} from 'app/actionCreators/navigation';

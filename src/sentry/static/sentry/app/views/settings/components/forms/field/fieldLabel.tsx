@@ -1,6 +1,6 @@
 import isPropValid from '@emotion/is-prop-valid';
 
-import styled from '@emotion/styled';
+import styled from 'app/emotion-styled';
 
 const shouldForwardProp = p => p !== 'disabled' && isPropValid(p);
 

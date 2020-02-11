@@ -4,7 +4,7 @@ import PropTypes from 'prop-types';
 import React from 'react';
 import algoliasearch from 'algoliasearch';
 
-import styled from '@emotion/styled';
+import styled from 'app/emotion-styled';
 import {
   ALGOLIA_APP_ID,
   ALGOLIA_READ_ONLY,

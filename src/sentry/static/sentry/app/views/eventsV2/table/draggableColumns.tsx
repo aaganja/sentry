@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import debounce from 'lodash/debounce';
 
-import styled from '@emotion/styled';
+import styled from 'app/emotion-styled';
 import space from 'app/styles/space';
 import {
   UserSelectValues,

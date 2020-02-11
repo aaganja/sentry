@@ -1,5 +1,5 @@
 import React from 'react';
-import styled from '@emotion/styled';
+import styled from 'app/emotion-styled';
 import * as ReactRouter from 'react-router';
 import {Location} from 'history';
 import uniqBy from 'lodash/uniqBy';

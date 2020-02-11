@@ -7,7 +7,7 @@ import React from 'react';
 import * as Sentry from '@sentry/browser';
 import moment from 'moment';
 
-import styled from '@emotion/styled';
+import styled from 'app/emotion-styled';
 import {addErrorMessage} from 'app/actionCreators/indicator';
 import {analytics} from 'app/utils/analytics';
 import {

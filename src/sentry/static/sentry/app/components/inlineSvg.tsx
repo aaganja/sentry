@@ -3,7 +3,7 @@ import PropTypes from 'prop-types';
 import React from 'react';
 import isPropValid from '@emotion/is-prop-valid';
 
-import styled from '@emotion/styled';
+import styled from 'app/emotion-styled';
 
 type Props = {
   src: string;

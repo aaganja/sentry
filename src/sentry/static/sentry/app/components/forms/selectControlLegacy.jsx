@@ -3,7 +3,7 @@ import React from 'react';
 import ReactSelect, {Async, Creatable, AsyncCreatable} from 'react-select-legacy';
 import {css} from '@emotion/core';
 
-import styled from '@emotion/styled';
+import styled from 'app/emotion-styled';
 import convertFromSelect2Choices from 'app/utils/convertFromSelect2Choices';
 
 /**

@@ -1,7 +1,7 @@
 import PropTypes from 'prop-types';
 import {css} from '@emotion/core';
 
-import styled from '@emotion/styled';
+import styled from 'app/emotion-styled';
 import space from 'app/styles/space';
 
 type Props = {

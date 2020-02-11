@@ -3,7 +3,7 @@ import PropTypes from 'prop-types';
 import React from 'react';
 import {Location} from 'history';
 
-import styled from '@emotion/styled';
+import styled from 'app/emotion-styled';
 import {Organization} from 'app/types';
 import {PageContent} from 'app/styles/organization';
 import {t} from 'app/locale';

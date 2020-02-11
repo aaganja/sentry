@@ -1,7 +1,7 @@
 import React, {ReactText} from 'react';
 import uniq from 'lodash/uniq';
 
-import styled from '@emotion/styled';
+import styled from 'app/emotion-styled';
 import {trackAnalyticsEvent} from 'app/utils/analytics';
 import {t} from 'app/locale';
 import {DISCOVER2_DOCS_URL} from 'app/constants';

@@ -5,7 +5,7 @@
  */
 import React from 'react';
 
-import styled from '@emotion/styled';
+import styled from 'app/emotion-styled';
 import space from 'app/styles/space';
 
 const DateDivider = styled(function DateDivider({children, ...props}) {

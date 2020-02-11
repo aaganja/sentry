@@ -4,7 +4,7 @@ import classNames from 'classnames';
 import {css} from '@emotion/core';
 import scrollToElement from 'scroll-to-element';
 
-import styled from '@emotion/styled';
+import styled from 'app/emotion-styled';
 import {defined, objectIsEmpty, isUrl} from 'app/utils';
 import {t} from 'app/locale';
 import ClippedBox from 'app/components/clippedBox';

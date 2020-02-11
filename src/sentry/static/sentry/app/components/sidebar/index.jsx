@@ -7,7 +7,7 @@ import createReactClass from 'create-react-class';
 import {css} from '@emotion/core';
 import queryString from 'query-string';
 
-import styled from '@emotion/styled';
+import styled from 'app/emotion-styled';
 import {extractSelectionParameters} from 'app/components/organizations/globalSelectionHeader/utils';
 import {hideSidebar, showSidebar} from 'app/actionCreators/preferences';
 import {load as loadIncidents} from 'app/actionCreators/serviceIncidents';

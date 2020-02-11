@@ -1,4 +1,4 @@
-import styled from '@emotion/styled';
+import styled from 'app/emotion-styled';
 
 // TODO(releasesv2): health status according to crash free percent will be calculated
 // elsewhere (if at all), this is just for demonstration purposes

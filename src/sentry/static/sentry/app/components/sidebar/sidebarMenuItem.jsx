@@ -2,7 +2,7 @@ import PropTypes from 'prop-types';
 import React from 'react';
 import {css} from '@emotion/core';
 
-import styled from '@emotion/styled';
+import styled from 'app/emotion-styled';
 import Link from 'app/components/links/link';
 import ExternalLink from 'app/components/links/externalLink';
 

@@ -5,7 +5,7 @@ import issues from 'sentry-dreamy-components/dist/issues.svg';
 import suggestedAssignees from 'sentry-dreamy-components/dist/suggested-assignees.svg';
 import contributors from 'sentry-dreamy-components/dist/contributors.svg';
 
-import styled from '@emotion/styled';
+import styled from 'app/emotion-styled';
 import {t} from 'app/locale';
 import {Project, Organization} from 'app/types';
 import {analytics} from 'app/utils/analytics';

@@ -3,7 +3,7 @@ import PropTypes from 'prop-types';
 import React from 'react';
 import ReactDOM from 'react-dom';
 
-import styled from '@emotion/styled';
+import styled from 'app/emotion-styled';
 import {inputStyles} from 'app/styles/input';
 import {selectText} from 'app/utils/selectText';
 import Button from 'app/components/button';

@@ -3,7 +3,7 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import isPropValid from '@emotion/is-prop-valid';
 
-import styled from '@emotion/styled';
+import styled from 'app/emotion-styled';
 import InlineSvg from 'app/components/inlineSvg';
 import Tooltip from 'app/components/tooltip';
 import space from 'app/styles/space';

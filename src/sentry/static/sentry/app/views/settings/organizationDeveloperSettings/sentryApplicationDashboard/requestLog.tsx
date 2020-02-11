@@ -2,7 +2,7 @@ import React from 'react';
 import moment from 'moment-timezone';
 import memoize from 'lodash/memoize';
 
-import styled from '@emotion/styled';
+import styled from 'app/emotion-styled';
 import AsyncComponent from 'app/components/asyncComponent';
 import {Panel, PanelBody, PanelHeader, PanelItem} from 'app/components/panels';
 import EmptyMessage from 'app/views/settings/components/emptyMessage';

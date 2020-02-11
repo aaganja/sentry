@@ -3,7 +3,7 @@ import PropTypes from 'prop-types';
 import React from 'react';
 import keydown from 'react-keydown';
 
-import styled from '@emotion/styled';
+import styled from 'app/emotion-styled';
 import {analytics} from 'app/utils/analytics';
 import {inputStyles} from 'app/styles/input';
 import {t, tct} from 'app/locale';

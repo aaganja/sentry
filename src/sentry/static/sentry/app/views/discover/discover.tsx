@@ -2,7 +2,7 @@ import {browserHistory} from 'react-router';
 import React from 'react';
 import moment from 'moment';
 
-import styled from '@emotion/styled';
+import styled from 'app/emotion-styled';
 import {addErrorMessage, addSuccessMessage} from 'app/actionCreators/indicator';
 import {getUtcDateString} from 'app/utils/dates';
 import {t, tct} from 'app/locale';

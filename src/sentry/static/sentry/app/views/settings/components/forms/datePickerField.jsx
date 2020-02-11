@@ -5,7 +5,7 @@ import {Calendar} from 'react-date-range';
 import React from 'react';
 import moment from 'moment';
 
-import styled from '@emotion/styled';
+import styled from 'app/emotion-styled';
 import {inputStyles} from 'app/styles/input';
 import DropdownMenu from 'app/components/dropdownMenu';
 import InlineSvg from 'app/components/inlineSvg';

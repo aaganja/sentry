@@ -2,7 +2,7 @@ import {RouteComponentProps} from 'react-router/lib/Router';
 import React from 'react';
 import get from 'lodash/get';
 
-import styled from '@emotion/styled';
+import styled from 'app/emotion-styled';
 import {
   LightWeightOrganization,
   Organization,

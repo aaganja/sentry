@@ -1,7 +1,7 @@
 import React from 'react';
 import {Location} from 'history';
 
-import styled from '@emotion/styled';
+import styled from 'app/emotion-styled';
 import {Organization, SavedQuery} from 'app/types';
 import {fetchSavedQuery} from 'app/actionCreators/discoverSavedQueries';
 import {Client} from 'app/api';

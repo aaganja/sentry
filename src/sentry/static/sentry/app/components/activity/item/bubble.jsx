@@ -1,6 +1,6 @@
 import PropTypes from 'prop-types';
 
-import styled from '@emotion/styled';
+import styled from 'app/emotion-styled';
 
 /**
  * This creates a bordered box that has a left pointing arrow

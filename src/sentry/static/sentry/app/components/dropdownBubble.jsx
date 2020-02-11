@@ -1,6 +1,6 @@
 import {css} from '@emotion/core';
 
-import styled from '@emotion/styled';
+import styled from 'app/emotion-styled';
 
 /**
  * If `blendCorner` is false, then we apply border-radius to all corners

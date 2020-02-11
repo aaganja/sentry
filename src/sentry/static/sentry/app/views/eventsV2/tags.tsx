@@ -3,7 +3,7 @@ import PropTypes from 'prop-types';
 import {Location} from 'history';
 import * as Sentry from '@sentry/browser';
 
-import styled from '@emotion/styled';
+import styled from 'app/emotion-styled';
 import {t} from 'app/locale';
 import space from 'app/styles/space';
 import {Client} from 'app/api';

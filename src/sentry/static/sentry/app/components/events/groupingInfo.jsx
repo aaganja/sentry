@@ -2,7 +2,7 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import isObject from 'lodash/isObject';
 
-import styled from '@emotion/styled';
+import styled from 'app/emotion-styled';
 import AsyncComponent from 'app/components/asyncComponent';
 import DropdownAutoComplete from 'app/components/dropdownAutoComplete';
 import DropdownButton from 'app/components/dropdownButton';

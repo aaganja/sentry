@@ -5,7 +5,7 @@ import classNames from 'classnames';
 import {Manager, Reference, Popper} from 'react-popper';
 import {keyframes} from '@emotion/core';
 
-import styled from '@emotion/styled';
+import styled from 'app/emotion-styled';
 import {fadeIn} from 'app/styles/animations';
 import space from 'app/styles/space';
 import {domId} from 'app/utils/domId';

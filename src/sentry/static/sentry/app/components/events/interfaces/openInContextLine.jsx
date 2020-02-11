@@ -3,7 +3,7 @@ import React from 'react';
 
 import SentryAppIcon from 'app/components/sentryAppIcon';
 import {addQueryParamsToExistingUrl} from 'app/utils/queryString';
-import styled from '@emotion/styled';
+import styled from 'app/emotion-styled';
 import space from 'app/styles/space';
 import {t} from 'app/locale';
 import {recordInteraction} from 'app/utils/recordSentryAppInteraction';

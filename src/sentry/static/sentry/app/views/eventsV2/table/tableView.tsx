@@ -1,7 +1,7 @@
 import React from 'react';
 import {Location} from 'history';
 
-import styled from '@emotion/styled';
+import styled from 'app/emotion-styled';
 import {Organization} from 'app/types';
 import {trackAnalyticsEvent} from 'app/utils/analytics';
 import GridEditable, {COL_WIDTH_UNDEFINED} from 'app/components/gridEditable';

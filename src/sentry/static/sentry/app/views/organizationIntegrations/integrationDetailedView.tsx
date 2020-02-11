@@ -2,7 +2,7 @@ import React from 'react';
 import keyBy from 'lodash/keyBy';
 import {RouteComponentProps} from 'react-router/lib/Router';
 
-import styled from '@emotion/styled';
+import styled from 'app/emotion-styled';
 import {Organization, Integration, IntegrationProvider} from 'app/types';
 import {RequestOptions} from 'app/api';
 import {addErrorMessage} from 'app/actionCreators/indicator';

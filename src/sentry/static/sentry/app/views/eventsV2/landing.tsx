@@ -6,7 +6,7 @@ import isEqual from 'lodash/isEqual';
 import pick from 'lodash/pick';
 import {Location} from 'history';
 
-import styled from '@emotion/styled';
+import styled from 'app/emotion-styled';
 import {Organization, SavedQuery} from 'app/types';
 import {PageContent} from 'app/styles/organization';
 import {t} from 'app/locale';

@@ -4,7 +4,7 @@ import {LocationDescriptor} from 'history';
 import PropTypes from 'prop-types';
 import isPropValid from '@emotion/is-prop-valid';
 
-import styled from '@emotion/styled';
+import styled from 'app/emotion-styled';
 import {t} from 'app/locale';
 import space from 'app/styles/space';
 import overflowEllipsis from 'app/styles/overflowEllipsis';

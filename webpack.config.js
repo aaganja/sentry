@@ -331,7 +331,7 @@ let appConfig = {
   resolve: {
     alias: {
       app: path.join(staticPrefix, 'app'),
-      '@emotion/styled': path.join(staticPrefix, 'app', 'styled'),
+      'app/emotion-styled': path.join(staticPrefix, 'app', 'styled'),
       '@original-emotion/styled': path.join(
         __dirname,
         'node_modules',

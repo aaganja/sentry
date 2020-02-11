@@ -2,7 +2,7 @@ import {ClassNames} from '@emotion/core';
 import {RouteComponentProps} from 'react-router/lib/Router';
 import React from 'react';
 
-import styled from '@emotion/styled';
+import styled from 'app/emotion-styled';
 import {Panel, PanelBody, PanelHeader} from 'app/components/panels';
 import {addErrorMessage, addSuccessMessage} from 'app/actionCreators/indicator';
 import {Organization, Member, MemberRole} from 'app/types';

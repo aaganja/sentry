@@ -4,7 +4,7 @@ import React from 'react';
 import classNames from 'classnames';
 import isPropValid from '@emotion/is-prop-valid';
 
-import styled from '@emotion/styled';
+import styled from 'app/emotion-styled';
 import {PanelItem} from 'app/components/panels';
 import {t} from 'app/locale';
 import Count from 'app/components/count';

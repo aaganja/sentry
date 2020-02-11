@@ -2,7 +2,7 @@ import React from 'react';
 import get from 'lodash/get';
 import isFinite from 'lodash/isFinite';
 
-import styled from '@emotion/styled';
+import styled from 'app/emotion-styled';
 import {Event} from 'app/types';
 import {
   SentryTransactionEvent,

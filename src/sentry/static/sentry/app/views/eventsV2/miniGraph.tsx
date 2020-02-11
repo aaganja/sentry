@@ -2,7 +2,7 @@ import React from 'react';
 import isEqual from 'lodash/isEqual';
 import {Location} from 'history';
 
-import styled from '@emotion/styled';
+import styled from 'app/emotion-styled';
 import withApi from 'app/utils/withApi';
 import {Client} from 'app/api';
 import {Organization} from 'app/types';

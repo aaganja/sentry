@@ -4,7 +4,7 @@ import ReactDOM from 'react-dom';
 import Reflux from 'reflux';
 import createReactClass from 'create-react-class';
 
-import styled from '@emotion/styled';
+import styled from 'app/emotion-styled';
 import {Organization, Project} from 'app/types';
 import {t} from 'app/locale';
 import LoadingIndicator from 'app/components/loadingIndicator';

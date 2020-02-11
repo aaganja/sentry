@@ -1,7 +1,7 @@
 import React from 'react';
 import {Link} from 'react-router';
 import capitalize from 'lodash/capitalize';
-import styled from '@emotion/styled';
+import styled from 'app/emotion-styled';
 
 import {PanelItem} from 'app/components/panels';
 import {t} from 'app/locale';

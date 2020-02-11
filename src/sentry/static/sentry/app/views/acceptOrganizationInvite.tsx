@@ -3,7 +3,7 @@ import {browserHistory} from 'react-router';
 import {RouteComponentProps} from 'react-router/lib/Router';
 import {urlEncode} from '@sentry/utils';
 
-import styled from '@emotion/styled';
+import styled from 'app/emotion-styled';
 import {logout} from 'app/actionCreators/account';
 import {t, tct} from 'app/locale';
 import Alert from 'app/components/alert';

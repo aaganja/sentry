@@ -3,7 +3,7 @@ import PropTypes from 'prop-types';
 import * as Sentry from '@sentry/browser';
 import userFeedback from 'sentry-dreamy-components/dist/user-feedback.svg';
 
-import styled from '@emotion/styled';
+import styled from 'app/emotion-styled';
 import {Organization, Project} from 'app/types';
 import {t} from 'app/locale';
 import {trackAnalyticsEvent, trackAdhocEvent} from 'app/utils/analytics';

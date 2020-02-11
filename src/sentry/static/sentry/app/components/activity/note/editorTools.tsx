@@ -1,4 +1,4 @@
-import styled from '@emotion/styled';
+import styled from 'app/emotion-styled';
 
 const EditorTools = styled('span')`
   display: none;

@@ -4,7 +4,7 @@ import React from 'react';
 import moment from 'moment';
 import isPropValid from '@emotion/is-prop-valid';
 
-import styled from '@emotion/styled';
+import styled from 'app/emotion-styled';
 import {PageHeader} from 'app/styles/organization';
 import {t} from 'app/locale';
 import Access from 'app/components/acl/access';

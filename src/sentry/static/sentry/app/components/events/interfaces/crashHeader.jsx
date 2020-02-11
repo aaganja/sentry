@@ -1,6 +1,6 @@
 import PropTypes from 'prop-types';
 import React from 'react';
-import styled from '@emotion/styled';
+import styled from 'app/emotion-styled';
 
 import Tooltip from 'app/components/tooltip';
 import {t} from 'app/locale';

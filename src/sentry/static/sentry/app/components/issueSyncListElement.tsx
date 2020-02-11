@@ -3,7 +3,7 @@ import PropTypes from 'prop-types';
 import React from 'react';
 import capitalize from 'lodash/capitalize';
 
-import styled from '@emotion/styled';
+import styled from 'app/emotion-styled';
 import InlineSvg from 'app/components/inlineSvg';
 import space from 'app/styles/space';
 import Hovercard from 'app/components/hovercard';

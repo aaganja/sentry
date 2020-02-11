@@ -1,7 +1,7 @@
 import React from 'react';
 
 import {t} from 'app/locale';
-import styled from '@emotion/styled';
+import styled from 'app/emotion-styled';
 import theme from 'app/utils/theme';
 import Banner from 'app/components/banner';
 import localStorage from 'app/utils/localStorage';

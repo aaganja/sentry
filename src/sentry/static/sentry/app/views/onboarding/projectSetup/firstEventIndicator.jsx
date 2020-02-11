@@ -3,7 +3,7 @@ import PropTypes from 'prop-types';
 import React from 'react';
 import posed, {PoseGroup} from 'react-pose';
 
-import styled from '@emotion/styled';
+import styled from 'app/emotion-styled';
 import {t} from 'app/locale';
 import Button from 'app/components/button';
 import EventWaiter from 'app/views/onboarding/projectSetup/eventWaiter';

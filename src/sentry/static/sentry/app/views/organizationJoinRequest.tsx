@@ -1,7 +1,7 @@
 import React from 'react';
 import {Params} from 'react-router/lib/Router';
 
-import styled from '@emotion/styled';
+import styled from 'app/emotion-styled';
 import {addErrorMessage} from 'app/actionCreators/indicator';
 import {t, tct} from 'app/locale';
 import {trackAdhocEvent} from 'app/utils/analytics';

@@ -5,7 +5,7 @@ import React from 'react';
 import Reflux from 'reflux';
 import createReactClass from 'create-react-class';
 
-import styled from '@emotion/styled';
+import styled from 'app/emotion-styled';
 import {PanelItem} from 'app/components/panels';
 import {valueIsEqual} from 'app/utils';
 import AssigneeSelector from 'app/components/assigneeSelector';

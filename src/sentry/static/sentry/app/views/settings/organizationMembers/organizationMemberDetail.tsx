@@ -3,7 +3,7 @@ import {browserHistory} from 'react-router';
 import React from 'react';
 import * as Sentry from '@sentry/browser';
 
-import styled from '@emotion/styled';
+import styled from 'app/emotion-styled';
 import {Member, Organization, Team} from 'app/types';
 import {Panel, PanelBody, PanelHeader, PanelItem} from 'app/components/panels';
 import {

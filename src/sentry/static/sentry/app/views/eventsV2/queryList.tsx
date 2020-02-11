@@ -4,7 +4,7 @@ import classNames from 'classnames';
 import moment from 'moment';
 import {browserHistory} from 'react-router';
 
-import styled from '@emotion/styled';
+import styled from 'app/emotion-styled';
 import {t} from 'app/locale';
 import space from 'app/styles/space';
 import {Organization, SavedQuery} from 'app/types';

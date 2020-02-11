@@ -4,7 +4,7 @@ import keyBy from 'lodash/keyBy';
 import React from 'react';
 import {RouteComponentProps} from 'react-router/lib/Router';
 
-import styled from '@emotion/styled';
+import styled from 'app/emotion-styled';
 import {
   Organization,
   Integration,

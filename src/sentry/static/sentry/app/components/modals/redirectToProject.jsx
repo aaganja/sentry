@@ -2,7 +2,7 @@ import {withRouter} from 'react-router';
 import PropTypes from 'prop-types';
 import React from 'react';
 
-import styled from '@emotion/styled';
+import styled from 'app/emotion-styled';
 import {t, tct} from 'app/locale';
 import Button from 'app/components/button';
 import Text from 'app/components/text';

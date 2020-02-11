@@ -2,7 +2,7 @@ import {Link, withRouter} from 'react-router';
 import PropTypes from 'prop-types';
 import React from 'react';
 
-import styled from '@emotion/styled';
+import styled from 'app/emotion-styled';
 import {tct} from 'app/locale';
 import EventAnnotation from 'app/components/events/eventAnnotation';
 import InlineSvg from 'app/components/inlineSvg';

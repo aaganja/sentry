@@ -1,7 +1,7 @@
 import React from 'react';
 import {RouteComponentProps} from 'react-router/lib/Router';
 
-import styled from '@emotion/styled';
+import styled from 'app/emotion-styled';
 import {openInviteMembersModal} from 'app/actionCreators/modal';
 import {Organization, Member} from 'app/types';
 import {Panel} from 'app/components/panels';

@@ -3,7 +3,7 @@ import React from 'react';
 import uniqBy from 'lodash/uniqBy';
 import flatMap from 'lodash/flatMap';
 
-import styled from '@emotion/styled';
+import styled from 'app/emotion-styled';
 import CommitRow from 'app/components/commitRow';
 import InlineSvg from 'app/components/inlineSvg';
 import withApi from 'app/utils/withApi';
