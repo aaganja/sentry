@@ -1,11 +1,10 @@
 import React from 'react';
-import styled from 'app/emotion-styled';
 import * as ReactRouter from 'react-router';
 import {Location} from 'history';
 import uniqBy from 'lodash/uniqBy';
 
+import styled from 'app/emotion-styled';
 import {Organization, SelectValue} from 'app/types';
-
 import {Panel} from 'app/components/panels';
 import getDynamicText from 'app/utils/getDynamicText';
 import EventsChart from 'app/views/events/eventsChart';

@@ -17,7 +17,6 @@ import {
   Aggregation,
   Field,
 } from '../eventQueryParams';
-
 import {TableColumn} from './types';
 
 type ModalActions = {

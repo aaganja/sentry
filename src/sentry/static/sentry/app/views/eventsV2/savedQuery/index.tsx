@@ -16,7 +16,6 @@ import space from 'app/styles/space';
 
 import EventView from '../eventView';
 import {getDiscoverLandingUrl} from '../utils';
-
 import {handleCreateQuery, handleUpdateQuery, handleDeleteQuery} from './utils';
 
 type DefaultProps = {

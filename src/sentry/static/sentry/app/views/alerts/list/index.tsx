@@ -25,7 +25,6 @@ import space from 'app/styles/space';
 
 import {Incident} from '../types';
 import Status from '../status';
-
 import SparkLine from './sparkLine';
 
 const DEFAULT_QUERY_STATUS = '';

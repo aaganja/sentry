@@ -27,14 +27,11 @@ import EventView from '../eventView';
 import {hasAggregateField, EventQuery, generateTitle} from '../utils';
 import TagsTable from '../tagsTable';
 import DiscoverBreadcrumb from '../breadcrumb';
-import {SectionHeading} from '../styles';
-
+import {SectionHeading, SectionHeading, ContentBox, HeaderBox} from '../styles';
 import Pagination from './pagination';
 import LineGraph from './lineGraph';
 import EventInterfaces from './eventInterfaces';
 import LinkedIssue from './linkedIssue';
-import DiscoverBreadcrumb from '../breadcrumb';
-import {SectionHeading, ContentBox, HeaderBox} from '../styles';
 import OpsBreakdown from './transaction/opsBreakdown';
 
 const slugValidator = function(

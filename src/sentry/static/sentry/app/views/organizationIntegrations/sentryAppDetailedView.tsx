@@ -1,7 +1,7 @@
 import React from 'react';
-import styled from 'app/emotion-styled';
 import {RouteComponentProps} from 'react-router/lib/Router';
 
+import styled from 'app/emotion-styled';
 import {addErrorMessage, addSuccessMessage} from 'app/actionCreators/indicator';
 import Access from 'app/components/acl/access';
 import Button from 'app/components/button';
@@ -29,6 +29,7 @@ import withOrganization from 'app/utils/withOrganization';
 import {getIntegrationFeatureGate} from 'app/utils/integrationUtil';
 import SplitInstallationIdModal from 'app/views/organizationIntegrations/SplitInstallationIdModal';
 import {openModal} from 'app/actionCreators/modal';
+
 import {UninstallButton} from '../settings/organizationDeveloperSettings/sentryApplicationRow/installButtons';
 
 type State = {

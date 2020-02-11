@@ -6,6 +6,7 @@ import DropdownButton from 'app/components/dropdownButton';
 import DropdownControl, {DropdownItem} from 'app/components/dropdownControl';
 import {t} from 'app/locale';
 import space from 'app/styles/space';
+
 import {InlineContainer, SectionHeading} from '../eventsV2/styles';
 
 const YAxisSelector = props => {

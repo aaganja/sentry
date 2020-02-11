@@ -1,6 +1,5 @@
 import React from 'react';
 import {Location} from 'history';
-import styled from 'app/emotion-styled';
 
 import styled from 'app/emotion-styled';
 import {Client} from 'app/api';
@@ -11,7 +10,6 @@ import withTags from 'app/utils/withTags';
 import Pagination from 'app/components/pagination';
 
 import EventView, {isAPIPayloadSimilar} from '../eventView';
-
 import TableView from './tableView';
 import {TableData} from './types';
 

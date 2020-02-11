@@ -1,6 +1,5 @@
 import PropTypes from 'prop-types';
 import React from 'react';
-import styled from 'app/emotion-styled';
 import uniq from 'lodash/uniq';
 import flatten from 'lodash/flatten';
 

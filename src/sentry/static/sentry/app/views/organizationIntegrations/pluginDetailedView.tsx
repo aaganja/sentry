@@ -1,7 +1,7 @@
 import React from 'react';
-import styled from 'app/emotion-styled';
 import {RouteComponentProps} from 'react-router/lib/Router';
 
+import styled from 'app/emotion-styled';
 import {
   Organization,
   PluginWithProjectList,

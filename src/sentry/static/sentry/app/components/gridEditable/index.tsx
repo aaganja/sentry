@@ -35,7 +35,6 @@ import {
 } from './styles';
 import GridHeadCell from './gridHeadCell';
 import GridModalEditColumn from './gridModalEditColumn';
-
 import {COL_WIDTH_MINIMUM, COL_WIDTH_UNDEFINED, ColResizeMetadata} from './utils';
 
 type GridEditableProps<DataRow, ColumnKey> = {

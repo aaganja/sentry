@@ -2,7 +2,6 @@ import $ from 'jquery';
 import {browserHistory} from 'react-router';
 import PropTypes from 'prop-types';
 import React from 'react';
-import styled from 'app/emotion-styled';
 
 import styled from 'app/emotion-styled';
 import {ALL_ENVIRONMENTS_KEY} from 'app/constants';

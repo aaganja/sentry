@@ -1,5 +1,4 @@
 import React from 'react';
-import styled from 'app/emotion-styled';
 import * as Sentry from '@sentry/browser';
 import * as ReactRouter from 'react-router';
 import {Location} from 'history';
